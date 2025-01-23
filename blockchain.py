@@ -45,7 +45,7 @@ class Blockchain:
     def chain_valid(self, chain):
         previous_block = chain[0]
         block_index = 1
-
+        
         while block_index < len(chain):
             block = chain[block_index]
             if block.prev_hash != previous_block.hash:
