@@ -10,14 +10,10 @@ upgrade.
 • Privacy Concerns: Centralized systems may require personal informa�on and can poten�ally
 compromise user privacy.
 Blockchain:
-• Decentraliza�on: Operates on a distributed network of computers (nodes) without a central
-authority.
-• Accessibility: Anyone with internet access can par�cipate in blockchain networks.
-• Trustless Transac�ons: Uses cryptographic methods for secure and transparent transac�ons
-without relying on trust in a single en�ty.
-• Resilience to Fraud: Resistant to fraud due to cryptographic security and decentralized
-valida�on.
-• Efficiency and Cost: Lower transac�on fees and faster processing �mes due to automated
-consensus mechanisms.
-• Privacy and Security: Provides varying degrees of anonymity and security through
-cryptographic protocols.
+
+Decentralization: Operates on a distributed network of computers (nodes) without a central authority.
+Accessibility: Anyone with internet access can participate in blockchain networks.
+Trustless Transactions: Uses cryptographic methods for secure and transparent transactions without relying on trust in a single entity.
+Resilience to Fraud: Resistant to fraud due to cryptographic security and decentralized validation.
+Efficiency and Cost: Lower transaction fees and faster processing times due to automated consensus mechanisms.
+Privacy and Security: Provides varying degrees of anonymity and security through cryptographic protocols.
