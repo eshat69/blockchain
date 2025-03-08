@@ -12,6 +12,7 @@ Blockchain:
 •	Resilience to Fraud: Resistant to fraud due to cryptographic security and decentralized validation.
 •	Efficiency and Cost: Lower transaction fees and faster processing times due to automated consensus mechanisms.
 •	Privacy and Security: Provides varying degrees of anonymity and security through cryptographic protocols.
+
 Blockchain technology potentially impacts health systems in City A and City B:
 City A:
 •	Blockchain Integration: A certain percentage (x%) of health data in City A could be managed and accessed through blockchain technology.
