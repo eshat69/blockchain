@@ -101,4 +101,8 @@ Blockchain mining is a process that involves verifying and adding transactions t
 •	Solve a puzzle: Miners compete to solve a complex mathematical puzzle to validate the block.
 •	Broadcast the solution: The first miner to find the correct solution broadcasts it to the network.
 •	Add to the blockchain: If the other nodes confirm the solution, the new block is added to the blockchain.
+Byzantine Generals Problem  :
+The Byzantine Generals Problem is a game theory problem, which describes the difficulty decentralized parties have in arriving at a consensus without relying on a trusted central party.
+•	The challenge : The generals must coordinate their actions, but they have no secure communication channels. Messages could be intercepted or tampered with by the enemy. 
+•	The goal: The generals must come to an agreement on a strategy. If they attack at the same time, they'll win, but if they attack at different times, they'll lose. 
 
