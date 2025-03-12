@@ -103,6 +103,17 @@ Blockchain mining is a process that involves verifying and adding transactions t
 •	Add to the blockchain: If the other nodes confirm the solution, the new block is added to the blockchain.
 Byzantine Generals Problem  :
 The Byzantine Generals Problem is a game theory problem, which describes the difficulty decentralized parties have in arriving at a consensus without relying on a trusted central party.
-•	The challenge : The generals must coordinate their actions, but they have no secure communication channels. Messages could be intercepted or tampered with by the enemy. 
+•	The challenge: The generals must coordinate their actions, but they have no secure communication channels. Messages could be intercepted or tampered with by the enemy. 
 •	The goal: The generals must come to an agreement on a strategy. If they attack at the same time, they'll win, but if they attack at different times, they'll lose. 
+consensus protocol :
+A consensus protocol in blockchain ensures all network nodes agree on transactions and the blockchain state. It prevents fraud by verifying and adding new blocks, ensuring all nodes reach agreement on stored data.
+Proof of Work
+•	Validation is done by a network of miners
+•	Bitcoin paid as a reward and for transaction fees
+•	Competitive nature uses lots of energy and computational power
+Proof of Stake
+•	Validation is done by participants who offer ether as collateral
+•	Ether is paid for transaction fees only
+•	Less computational power and energy used
+•	Consensus is reached faster because there is no difficulty
 
