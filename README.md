@@ -116,4 +116,10 @@ Proof of Stake
 •	Ether is paid for transaction fees only
 •	Less computational power and energy used
 •	Consensus is reached faster because there is no difficulty
+ Cryptocurrency :
+Cryptocurrency is a digital way to pay for things without needing banks. Transactions are just digital entries in a public online record. When you transfer cryptocurrency, it gets recorded in a public ledger.
+ •  Technology: The tools and infrastructure used to build and run blockchain networks, like software and hardware.
+•	Example: Ethereum's software and nodes that execute smart contracts.
+•  Protocol: Rules that govern how blockchain networks operate, including data validation and consensus mechanisms.
+•	Example: Bitcoin's protocol defines how transactions are verified and added to its blockchain.
 
