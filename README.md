@@ -122,4 +122,21 @@ Cryptocurrency is a digital way to pay for things without needing banks. Transac
 •	Example: Ethereum's software and nodes that execute smart contracts.
 •  Protocol: Rules that govern how blockchain networks operate, including data validation and consensus mechanisms.
 •	Example: Bitcoin's protocol defines how transactions are verified and added to its blockchain.
+The main difference of coin & token is that crypto coins have their own independent blockchain, whereas tokens are built on an existing blockchain. 
+The types of cryptography:
+1.	Symmetric Key Cryptography:
+o	Uses a single shared key for both encryption and decryption.
+o	Fast and efficient.
+o	Key exchange between sender and receiver must be secure.
+o	Examples include DES (Data Encryption Standard) and AES (Advanced Encryption Standard).
+2.	Hash Functions:
+o	No key is used; a fixed-length hash value is generated from plaintext.
+o	One-way function: cannot be reversed to obtain plaintext.
+o	Commonly used in securing passwords in operating systems.
+3.	Asymmetric Key Cryptography:
+o	Uses a pair of keys: a public key and a private key.
+o	Public key is used for encryption, and the private key is for decryption.
+o	Public key can be shared openly, private key is kept secret.
+o	Ensures secure communication without needing a prior exchange of keys.
+o	RSA (Rivest-Shamir-Adleman) is a popular algorithm for asymmetric cryptography.
 
