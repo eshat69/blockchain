@@ -139,4 +139,15 @@ o	Public key is used for encryption, and the private key is for decryption.
 o	Public key can be shared openly, private key is kept secret.
 o	Ensures secure communication without needing a prior exchange of keys.
 o	RSA (Rivest-Shamir-Adleman) is a popular algorithm for asymmetric cryptography.
+Bitcoin eco-system :
+•  Bitcoin Blockchain: A decentralized, distributed ledger that records all Bitcoin transactions. It ensures transparency and immutability by using cryptographic techniques.
+•  Miners: Individuals or groups who validate transactions and secure the network by solving complex mathematical puzzles. They are rewarded with newly minted bitcoins and transaction fees.
+•  Wallets: Software or hardware used to store, send, and receive bitcoins. Wallets manage private keys necessary for accessing and managing Bitcoin holdings.
+•  Exchanges: Platforms where users can buy, sell, and trade bitcoins and other cryptocurrencies. They provide liquidity and price discovery within the market.
+•  Developers: Individuals and teams who contribute to Bitcoin's protocol development, improving its functionality, security, and scalability.
+•  Nodes: Computers that maintain a full copy of the Bitcoin blockchain and participate in validating and relaying transactions. Nodes help ensure the network's decentralization and security.
+•  Merchants and Adoption: Businesses and individuals who accept Bitcoin as payment for goods and services, promoting its use as a medium of exchange.
+•  Regulation and Legal Framework: Various jurisdictions have different regulatory approaches to Bitcoin, impacting its adoption and use globally.
+•  Mining Pools: Groups of miners who collaborate to increase their chances of solving blocks and earning rewards collectively.
+•  Bitcoin Improvement Proposals (BIPs): Proposals for technical improvements to Bitcoin's protocol, governance, and ecosystem, allowing for community input and evolution.
 
