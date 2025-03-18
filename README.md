@@ -165,4 +165,10 @@ o	A consistent block frequency helps ensure the stability and predictability of 
 Mining : Mining is the process by which networks of specialized computers generate and release new Bitcoin and verify new transactions
 Nonce: the nonce is the number that blockchain miners are solving for …
 Target:  Target is a number used in mining. it is a number that a block hash must be below to the block to be added. target adjusts every 2016 bock to try & ensure that blocks are mining once every 10 minutes on average.
+Mining Works:
+•	Block Formation: Miners gather transactions into a block and then create a block header. This header includes details like the previous block hash, timestamp, and a nonce.
+•	Hashing: Miners hash the block header using the SHA-256 algorithm to generate a hash value. This hash is a unique digital fingerprint of the block data.
+•	Adjustment and Validity: The miner checks if the resulting hash is below the target value. If not, they increment the nonce and hash again. This process repeats until a valid hash (below the target) is found.
+•	Proof of Work: Finding a valid hash (one that meets the target criteria) is proof that the miner has expended computational effort, known as Proof of Work (PoW). This valid block can then be added to the blockchain.
+•	Difficulty Adjustment: Every 2016 block, the network adjusts the target based on how quickly blocks are being mined. If blocks are being mined too quickly, the target decreases to increase difficulty, and vice versa
 
