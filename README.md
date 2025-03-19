@@ -172,3 +172,20 @@ Mining Works:
 •	Proof of Work: Finding a valid hash (one that meets the target criteria) is proof that the miner has expended computational effort, known as Proof of Work (PoW). This valid block can then be added to the blockchain.
 •	Difficulty Adjustment: Every 2016 block, the network adjusts the target based on how quickly blocks are being mined. If blocks are being mined too quickly, the target decreases to increase difficulty, and vice versa
 
+
+1.	CPU (Central Processing Unit):
+o	Role: General-purpose processor found in most computers.
+o	Mining Capability: Initially used for early cryptocurrency mining (e.g., Bitcoin). However, CPUs are relatively slow and inefficient compared to GPUs and ASICs.
+o	Efficiency: Less energy-efficient for mining due to their general-purpose design.
+o	Versatility: Suitable for various tasks beyond mining, but not cost-effective for large-scale cryptocurrency mining.
+2.	GPU (Graphics Processing Unit):
+o	Role: Specialized for rendering graphics in computers.
+o	Mining Capability: Became popular for cryptocurrency mining (e.g., Ethereum) due to their parallel processing power.
+o	Efficiency: More energy-efficient than CPUs for mining, offering higher hash rates per watt.
+o	Versatility: This can be used for gaming, AI, and other parallel processing tasks besides mining.
+3.	ASIC (Application-Specific Integrated Circuit):
+o	Role: Custom-built chip designed specifically for one task, such as cryptocurrency mining.
+o	Mining Capability: Highly efficient and specialized for mining specific cryptocurrencies (e.g., Bitcoin ASICs for SHA-256 hashing).
+o	Efficiency: Most energy-efficient option for mining, offering significantly higher hash rates per watt compared to CPUs and GPUs.
+o	Versatility: Limited to the specific algorithm it's designed for, making it less versatile than CPUs and GPUs.
+
