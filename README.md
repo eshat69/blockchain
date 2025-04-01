@@ -128,7 +128,7 @@ The types of cryptography:
 o	Uses a single shared key for both encryption and decryption.
 o	Fast and efficient.
 o	Key exchange between sender and receiver must be secure.
-o	Examples include DES (Data Encryption Standard) and AES (Advanced Encryption Standard).
+	Examples include DES (Data Encryption Standard) and AES (Advanced Encryption Standard).
 2.	Hash Functions:
 o	No key is used; a fixed-length hash value is generated from plaintext.
 o	One-way function: cannot be reversed to obtain plaintext.
