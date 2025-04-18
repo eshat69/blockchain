@@ -267,5 +267,11 @@ o	3. Paper Wallets:
 o	4. Cold Storage Wallets:
 	Refers to any wallet where private keys are stored offline, away from internet-connected devices. This includes hardware wallets and paper wallets.
 o	5. Custodial Wallets:
-	Managed by a third party (like exchanges) who store your private keys on your behalf. While convenient, they pose security risks as you don't have full control over your keys.
+	Managed by a third party (like exchanges) that store your private keys on your behalf. While convenient, they pose security risks as you don't have full control over your keys.
+Transactions in Blockchain:
+1.	What is a Transaction?
+o	A transaction in blockchain is a fundamental unit of data that records the transfer of value between participants on the network. It can involve the transfer of cryptocurrency (like Bitcoin) or other assets.
+2.	Components of a Transaction:
+o	Inputs: These are references to previous transaction outputs (UTXOs) that are being spent to fund the new transaction.
+o	Outputs: These are the new UTXOs created as a result of the transaction, specifying the amount and the recipient.
 
