@@ -274,4 +274,15 @@ o	A transaction in blockchain is a fundamental unit of data that records the tra
 2.	Components of a Transaction:
 o	Inputs: These are references to previous transaction outputs (UTXOs) that are being spent to fund the new transaction.
 o	Outputs: These are the new UTXOs created as a result of the transaction, specifying the amount and the recipient.
+Transaction Process:
+•	Signing: Alice signs the transaction with her private key to prove ownership of the input UTXO.
+•	Broadcasting: Once signed, the transaction is broadcast to the network.
+•	Verification: Nodes in the network validate the transaction to ensure it meets consensus rules
+UTXOs (Unspent Transaction Outputs):
+1.	What are UTXOs?
+o	UTXOs represent the outputs of previous transactions that have not been spent yet.
+o	In simpler terms, they are like the balance of an account in traditional banking systems but fragmented into distinct, spendable amounts.
+The transaction fee in a blockchain context refers to a small amount of cryptocurrency that is included in a transaction and collected by miners or validators as a reward for processing that transaction and including it in a block on the blockchain.  A transaction fee is composed of:
+•	Base Fee: This is a minimum fee required for a transaction to be processed by the network.
+•	Priority Fee: An optional fee paid by the sender to prioritize their transaction.
 
