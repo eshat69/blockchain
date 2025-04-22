@@ -316,4 +316,23 @@ o	4. Cold Storage Wallets:
 	Refers to any wallet where private keys are stored offline, away from internet-connected devices. This includes hardware wallets and paper wallets.
 o	5. Custodial Wallets:
 	Managed by a third party (like exchanges) who store your private keys on your behalf. While convenient, they pose security risks as you don't have full control over your keys.
+Using a Cryptocurrency Wallet:
+•	Receiving Funds: Share your public address with others to receive cryptocurrency.
+•	Sending Funds: Input the recipient's public address and authorize the transaction with your private key.
+•	Security Practices: Always use strong passwords, enable two-factor authentication (2FA), and regularly back up your wallet.
+Segregated Witness (SegWit):
+•	Definition: SegWit is a protocol upgrade implemented in some blockchain networks, such as Bitcoin and Litecoin.
+•	Purpose: It separates (or segregates) transaction data (witness data) from the transaction ID (txid) and moves it to a new structure.
+Benefits of Segregated Witness (SegWit):
+1.	Increased Transaction Capacity:
+o	SegWit reduces the size of transaction data stored on the blockchain, allowing more transactions to fit into each block.
+o	This helps alleviate network congestion and reduces transaction fees.
+2.	Enhanced Security:
+o	Fixes transaction malleability issues by separating digital signatures from transaction data.
+o	Improves the security and reliability of transactions.
+3.	Compatibility and Future Upgrades:
+o	SegWit provides a foundation for implementing further scaling solutions and upgrades in blockchain networks.
+o	It supports the development of second-layer scaling solutions like the Lightning Network.
+Ethereum is an open source block chain based platform . Ethereum provide ether.
+Ethereum has 3 types of node  Full Node , Light Node , Archive Node 
 
