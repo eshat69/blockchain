@@ -6,6 +6,7 @@ Centralized Banking System:
 •	Vulnerable to Fraud: Single points of failure can be exploited by fraudsters or hackers.
 •	Traditional Infrastructure: Relies on legacy systems that can be costly to maintain and upgrade.
 •	Privacy Concerns: Centralized systems may require personal information and can potentially compromise user privacy.
+
 Blockchain:
 •	Decentralization: Operates on a distributed network of computers (nodes) without a central authority.
 •	Accessibility: Anyone with internet access can participate in blockchain networks.
