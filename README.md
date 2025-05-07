@@ -9,6 +9,7 @@ Centralized Banking System:
 •	Privacy Concerns: Centralized systems may require personal information and can potentially compromise user privacy.
 
 Blockchain:
+
 •	Decentralization: Operates on a distributed network of computers (nodes) without a central authority.
 •	Accessibility: Anyone with internet access can participate in blockchain networks.
 •	Trustless Transactions: Cryptographic methods are used for secure and transparent transactions without relying on trust in a single entity.
