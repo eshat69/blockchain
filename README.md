@@ -106,6 +106,7 @@ peer-to-peer (P2P) network handles a hacked block:
 In simple terms, P2P networks use rules and teamwork to spot and fix hacked blocks, keeping the whole network safe and working right.
 
 Blockchain mining: 
+
 Blockchain mining is a process that involves verifying and adding transactions to a blockchain, a public ledger that documents cryptocurrency transactions. Miners are rewarded with digital currency for their work, which incentivizes them to maintain the blockchain's integrity. The reason,the blockchain mining creates an environment of trust & security.
  blockchain mining works: 
 •	Collect transactions: Miners' computers, called nodes, collect transactions from the past ten minutes.
