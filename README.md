@@ -28,8 +28,7 @@ City B:
 •	Potential Blockchain Use: The specifics of blockchain implementation in City B are not provided, so its application could vary.
 •	Hypothetical Benefits: If City B adopts blockchain, it could potentially offer similar advantages as to City A, such as enhanced security, data transparency, and patient autonomy.
 •	Considerations: Adoption challenges, regulatory frameworks, and interoperability with existing healthcare systems would need to be addressed.
-In both cities, blockchain technology could revolutionize healthcare by improving data integrity, security, and accessibility, while empowering patients with greater control over their health information. The actual implementation and benefits would depend on local policies, technological infrastructure, and healthcare system priorities.
-
+In both cities, blockchain technology could revolutionize healthcare by improving data integrity, security, and accessibility, while empowering patients with greater control over their health information. The actual implementation and benefits would depend on local policies, technological infrastructure, and healthcare system priorities
 Hashing Algorithm :
  Hash is like a fingerprint (human being: every person has a different identity).
 Hash is generated with the help of the SHA256 algorithm
