@@ -370,4 +370,9 @@ o	Features:
 	Provides access to complete transaction history, smart contract states, and account balances since the genesis block.
 	Consumes significant storage space due to storing extensive blockchain data.
 	Essential for developers, researchers, and projects needing deep historical analysis of Ethereum's state.
+Use Cases:
+•	Full Nodes: Ideal for users requiring full blockchain security and independence, such as miners, developers, and businesses handling large transaction volumes.
+•	Light Nodes: Suitable for everyday users and applications needing quick access to Ethereum's network without extensive resource requirements.
+•	Archive Nodes: Critical for developers building decentralized applications (dApps), conducting blockchain research, or requiring comprehensive historical data.
+Ethereum account is an entity with an ether (ETH) balance that can send or receive transection on Ethereum .
 
