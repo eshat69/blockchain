@@ -351,3 +351,23 @@ o	It supports the development of second-layer scaling solutions like the Lightni
 Ethereum is an open source block chain based platform . Ethereum provide ether.
 Ethereum has 3 types of node  Full Node , Light Node , Archive Node 
 
+Types of Ethereum Nodes:
+1.	Full Node:
+o	Function: A full node stores the entire blockchain and validates every transaction and smart contract on the network.
+o	Features:
+	Maintains a complete copy of the Ethereum blockchain.
+	Participates in consensus by validating and relaying transactions.
+	Supports network security and decentralization by independently verifying all data.
+2.	Light Node (or Light Client):
+o	Function: A light node downloads only block headers, not the entire blockchain. It relies on full nodes for transaction information.
+o	Features:
+	Requires less storage space and bandwidth compared to full nodes.
+	Can send and receive transactions but doesn't validate them independently.
+	Suitable for resource-constrained devices like smartphones, providing quicker access to the blockchain.
+3.	Archive Node:
+o	Function: An archive node stores all historical data and state changes on the blockchain, including past transaction details.
+o	Features:
+	Provides access to complete transaction history, smart contract states, and account balances since the genesis block.
+	Consumes significant storage space due to storing extensive blockchain data.
+	Essential for developers, researchers, and projects needing deep historical analysis of Ethereum's state.
+
