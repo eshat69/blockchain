@@ -152,6 +152,8 @@ o	Public key can be shared openly, private key is kept secret.
 o	Ensures secure communication without needing a prior exchange of keys.
 o	RSA (Rivest-Shamir-Adleman) is a popular algorithm for asymmetric cryptography.
 Bitcoin eco-system :
+
+
 •  Bitcoin Blockchain: A decentralized, distributed ledger that records all Bitcoin transactions. It ensures transparency and immutability by using cryptographic techniques.
 •  Miners: Individuals or groups who validate transactions and secure the network by solving complex mathematical puzzles. They are rewarded with newly minted bitcoins and transaction fees.
 •  Wallets: Software or hardware used to store, send, and receive bitcoins. Wallets manage private keys necessary for accessing and managing Bitcoin holdings.
