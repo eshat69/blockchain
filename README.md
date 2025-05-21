@@ -330,6 +330,8 @@ o	4. Cold Storage Wallets:
 o	5. Custodial Wallets:
 	Managed by a third party (like exchanges) who store your private keys on your behalf. While convenient, they pose security risks as you don't have full control over your keys.
 Using a Cryptocurrency Wallet:
+
+
 •	Receiving Funds: Share your public address with others to receive cryptocurrency.
 •	Sending Funds: Input the recipient's public address and authorize the transaction with your private key.
 •	Security Practices: Always use strong passwords, enable two-factor authentication (2FA), and regularly back up your wallet.
