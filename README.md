@@ -136,7 +136,7 @@ Cryptocurrency is a digital way to pay for things without needing banks. Transac
 •	Example: Ethereum's software and nodes that execute smart contracts.
 •  Protocol: Rules that govern how blockchain networks operate, including data validation and consensus mechanisms.
 •	Example: Bitcoin's protocol defines how transactions are verified and added to its blockchain.
-The main difference of coin & token is that crypto coins have their own independent blockchain, whereas tokens are built on an existing blockchain. 
+The main difference between a coin and a token is that crypto coins have their own independent blockchain, whereas tokens are built on an existing blockchain. 
 The types of cryptography:
 1.	Symmetric Key Cryptography:
 o	Uses a single shared key for both encryption and decryption.
