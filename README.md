@@ -1,5 +1,5 @@
 
-  
+
 Centralized Banking System:
 
 •	Central Control: Managed by a central authority (e.g., government or central bank).
