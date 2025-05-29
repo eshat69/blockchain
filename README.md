@@ -1,12 +1,10 @@
 Centralized Banking System:
-
 •	Central Control: Managed by a central authority (e.g., government or central bank).
 •	Limited Access: Access to financial services may be restricted or dependent on location and status.
 •	Trust Dependency: Relies on trust in the central authority to manage and secure transactions.
 •	Vulnerable to Fraud: Single points of failure can be exploited by fraudsters or hackers.
 •	Traditional Infrastructure: Relies on legacy systems that can be costly to maintain and upgrade.
 •	Privacy Concerns: Centralized systems may require personal information and can potentially compromise user privacy.
-
 Blockchain:
 
 •	Decentralization: Operates on a distributed network of computers (nodes) without a central authority.
