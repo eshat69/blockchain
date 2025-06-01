@@ -1,4 +1,5 @@
 
+
 Centralized Banking System:
 •	Central Control: Managed by a central authority (e.g., government or central bank).
 •	Limited Access: Access to financial services may be restricted or dependent on location and status.
