@@ -33,6 +33,7 @@ Hash is generated with the help of the SHA256 algorithm
 Hashing Algorithm (SHA256):
 •	Definition: A hashing algorithm is a mathematical function that garbles data and makes it unreadable. 
 Blockchain Structure:
+
 Blockchain organizes data into blocks, where each block contains:
 •	Data: Information such as transactions or records.
 •	Previous Hash: The hash of the previous block in the chain, creating a sequential link.
