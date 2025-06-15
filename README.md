@@ -54,15 +54,15 @@ Requirements of a hashing algorithm:
 "SHA-256, a widely used hashing algorithm in blockchain, exemplifies the requirements:
 
 
-•	One-way Functionality: Easily converts data to a hash but computationally impractical to reverse.
+•	One-way Functionality: Easily converts data to a hash, but computationally impractical to reverse.
 •	Deterministic: Identical blockchain data always yields the same SHA-256 hash, ensuring transaction consistency.
 •	Fast Computation: Efficiently handles vast blockchain transaction volumes.
 •	Uniformity: Distributes hashes evenly, reducing the chance of identical hashes for different blocks.
-•	Pre-image Resistance: It's nearly impossible to derive original data from its SHA-256 hash, securing transaction integrity.
+•	Pre-image Resistance: It's nearly impossible to derive the original data from its SHA-256 hash, securing transaction integrity.
 •	Collision Resistance: SHA-256 minimizes the likelihood of different transactions producing the same hash, which is crucial for blockchain reliability.
 •	Avalanche Effect: Even slight changes in blockchain data drastically alter SHA-256 hashes, promptly detecting tampering.
 •	Non-Reversible: Once data is hashed with SHA-256, it cannot feasibly be reversed, ensuring transaction privacy and permanence. 
-benefits of immutability in blockchain: 
+Benefits of immutability in blockchain: 
 
 
 1.	Data Integrity: Once information is recorded in a blockchain, it cannot be altered or deleted, ensuring that transactions and data remain accurate and trustworthy. This guarantees the reliability of records and prevents manipulation.
