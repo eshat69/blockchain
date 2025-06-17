@@ -1,4 +1,3 @@
-
 Centralized Banking System:
 •	Central Control: Managed by a central authority (e.g., government or central bank).
 •	Limited Access: Access to financial services may be restricted or dependent on location and status.
@@ -106,18 +105,18 @@ In simple terms, P2P networks use rules and teamwork to spot and fix hacked bloc
 
 Blockchain mining: 
 
-Blockchain mining is a process that involves verifying and adding transactions to a blockchain, a public ledger that documents cryptocurrency transactions. Miners are rewarded with digital currency for their work, which incentivizes them to maintain the blockchain's integrity. The reason,the blockchain mining creates an environment of trust & security.
- blockchain mining works: 
+Blockchain mining is a process that involves verifying and adding transactions to a blockchain, a public ledger that documents cryptocurrency transactions. Miners are rewarded with digital currency for their work, which incentivizes them to maintain the blockchain's integrity. The reason is that blockchain mining creates an environment of trust & security.
+ Blockchain mining works: 
 •	Collect transactions: Miners' computers, called nodes, collect transactions from the past ten minutes.
 •	Create a block: The transactions are bundled into a block, which includes information from the previous block.
 •	Solve a puzzle: Miners compete to solve a complex mathematical puzzle to validate the block.
 •	Broadcast the solution: The first miner to find the correct solution broadcasts it to the network.
 •	Add to the blockchain: If the other nodes confirm the solution, the new block is added to the blockchain.
 Byzantine Generals Problem  :
-The Byzantine Generals Problem is a game theory problem, which describes the difficulty decentralized parties have in arriving at a consensus without relying on a trusted central party.
+The Byzantine Generals Problem is a game theory problem that describes the difficulty decentralized parties face in arriving at a consensus without relying on a trusted central party.
 •	The challenge: The generals must coordinate their actions, but they have no secure communication channels. Messages could be intercepted or tampered with by the enemy. 
 •	The goal: The generals must come to an agreement on a strategy. If they attack at the same time, they'll win, but if they attack at different times, they'll lose. 
-consensus protocol :
+Consensus protocol :
 A consensus protocol in blockchain ensures all network nodes agree on transactions and the blockchain state. It prevents fraud by verifying and adding new blocks, ensuring all nodes reach agreement on stored data.
 Proof of Work
 •	Validation is done by a network of miners
