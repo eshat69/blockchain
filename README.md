@@ -39,8 +39,6 @@ Blockchain organizes data into blocks, where each block contains:
 •	Hash: The hash generated for the current block, which includes the data and the previous block's hash.
 •	Output: SHA256 produces a 256-bit (32-byte) hash value, which is commonly represented as a 64-character hexadecimal string (each character represents 4 bits).
 Requirements of a hashing algorithm:
-
-
    	One-way Functionality: It's easy to turn data into a hash, but extremely hard to turn a hash back into the original data.
    	Deterministic: Ensures that identical input data always generates the same hash, critical for maintaining consistency in blockchain transactions and blocks.
    	Fast Computation: Essential for handling the high transaction volumes of blockchain networks swiftly and efficiently.
