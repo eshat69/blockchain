@@ -60,8 +60,6 @@ Requirements of a hashing algorithm:
 •	Avalanche Effect: Even slight changes in blockchain data drastically alter SHA-256 hashes, promptly detecting tampering.
 •	Non-Reversible: Once data is hashed with SHA-256, it cannot feasibly be reversed, ensuring transaction privacy and permanence. 
 Benefits of immutability in blockchain: 
-
-
 1.	Data Integrity: Once information is recorded in a blockchain, it cannot be altered or deleted, ensuring that transactions and data remain accurate and trustworthy. This guarantees the reliability of records and prevents manipulation.
 2.	Trust and Transparency: Immutability enhances trust in blockchain networks by providing a secure and tamper-proof record of transactions. Participants can rely on the authenticity of the data, fostering transparency in operations.
 3.	Security: Blockchain's immutability makes it highly secure against cyber threats. The use of cryptographic hashing and consensus mechanisms ensures that any attempt to alter the blockchain is easily detectable, maintaining the network's integrity and safeguarding against unauthorized changes.
