@@ -72,8 +72,6 @@ The Bitcoin blockchain's immutable ledger works:
 distributed P2P network in blockchain  :
  A "distributed P2P network in blockchain" refers to a network architecture where multiple computers (nodes) across a blockchain system operate as peers, meaning each node has equal power and responsibility to maintain a copy of the shared ledger, allowing for direct transactions between participants without a central authority, making the network decentralized and highly secure, essentially, every node acts as both a client and a server, communicating directly with other nodes to verify and validate transactions.
 Centralized Network:
-
-
 •	Single Hub: Like a single main office where all decisions are made.
 •	Issues:
 o	If the main office shuts down, the whole network stops working.
