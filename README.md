@@ -46,10 +46,7 @@ Requirements of a hashing algorithm:
    	Collision Resistance: Minimizes the chance that different blocks produce identical hash values, preserving the uniqueness and reliability of the blockchain's chronological chain.
    	Avalanche Effect: Guarantees that any change in block data results in a significantly different hash value, enabling detection of even minor tampering attempts.
    	Non-Reversible: Ensures that once data is hashed, it cannot be feasibly reconstructed back to its original form, ensuring privacy and permanence in blockchain transactions and records.
-   
 "SHA-256, a widely used hashing algorithm in blockchain, exemplifies the requirements:
-
-
 •	One-way Functionality: Easily converts data to a hash, but computationally impractical to reverse.
 •	Deterministic: Identical blockchain data always yields the same SHA-256 hash, ensuring transaction consistency.
 •	Fast Computation: Efficiently handles vast blockchain transaction volumes.
