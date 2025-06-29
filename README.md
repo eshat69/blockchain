@@ -92,9 +92,7 @@ peer-to-peer (P2P) network handles a hacked block:
 5.	Rollback: Some networks can go back to a point before the hack to fix things and keep the data correct.
 6.	Security: P2P networks use strong security like codes and shared data to stop hacks before they cause big problems.
 In simple terms, P2P networks use rules and teamwork to spot and fix hacked blocks, keeping the whole network safe and working right.
-
 Blockchain mining: 
-
 Blockchain mining is a process that involves verifying and adding transactions to a blockchain, a public ledger that documents cryptocurrency transactions. Miners are rewarded with digital currency for their work, which incentivizes them to maintain the blockchain's integrity. The reason is that blockchain mining creates an environment of trust & security.
  Blockchain mining works: 
 •	Collect transactions: Miners' computers, called nodes, collect transactions from the past ten minutes.
