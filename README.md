@@ -173,8 +173,6 @@ Mining Works:
 •	Adjustment and Validity: The miner checks if the resulting hash is below the target value. If not, they increment the nonce and hash again. This process repeats until a valid hash (below the target) is found.
 •	Proof of Work: Finding a valid hash (one that meets the target criteria) is proof that the miner has expended computational effort, known as Proof of Work (PoW). This valid block can then be added to the blockchain.
 •	Difficulty Adjustment: Every 2016 block, the network adjusts the target based on how quickly blocks are being mined. If blocks are being mined too quickly, the target decreases to increase difficulty, and vice versa
-
-
 1.	CPU (Central Processing Unit):
 o	Role: General-purpose processor found in most computers.
 o	Mining Capability: Initially used for early cryptocurrency mining (e.g., Bitcoin). However, CPUs are relatively slow and inefficient compared to GPUs and ASICs.
