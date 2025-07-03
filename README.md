@@ -113,7 +113,7 @@ Proof of Work
 Proof of Stake
 •	Validation is done by participants who offer ether as collateral
 •	Ether is paid for transaction fees only
-•	Less computational power and energy used
+•	Less computational power and energy are used
 •	Consensus is reached faster because there is no difficulty
  Cryptocurrency :
 Cryptocurrency is a digital way to pay for things without needing banks. Transactions are just digital entries in a public online record. When you transfer cryptocurrency, it gets recorded in a public ledger.
