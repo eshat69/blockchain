@@ -161,7 +161,7 @@ o	Block frequency refers to the average time it takes for miners to discover and
 o	Bitcoin's protocol adjusts the difficulty of mining every 2016 block (approximately every two weeks) to maintain an average block discovery time of about 10 minutes.
 o	The block frequency can vary slightly due to fluctuations in computational power (hash rate) dedicated to mining.
 o	A consistent block frequency helps ensure the stability and predictability of Bitcoin's transaction processing and issuance of new bitcoins.
-Mining : Mining is the process by which networks of specialized computers generate and release new Bitcoin and verify new transactions
+Mining: Mining is the process by which networks of specialized computers generate and release new Bitcoin and verify new transactions
 Nonce: the nonce is the number that blockchain miners are solving for …
 Target:  Target is a number used in mining. it is a number that a block hash must be below to the block to be added. target adjusts every 2016 bock to try & ensure that blocks are mining once every 10 minutes on average.
 Mining Works:
