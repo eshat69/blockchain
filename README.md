@@ -198,8 +198,8 @@ A mining pool in cryptocurrency:
 
 SHA256 produce , Total no of possible hashes = 16x16*****x16 = 16^64 = 〖10〗^77
 Total valid hashes = 〖10〗^77   Total no of nonce = 4x〖10〗^9
-Ther are not enough nonce to generate the valid hash . 
-A modest does  〖10〗^8 hashes per second. so 4x〖10〗^9   nance will be covered = 4x〖10〗^9/〖10〗^8 = 40sec
+There are not enough nonces to generate a valid hash. 
+A modest dose  〖10〗^8 hashes per second. so 4x〖10〗^9   nance will be covered = 4x〖10〗^9/〖10〗^8 = 40sec
 When a miner runs out of nonces without finding a valid block (hitting the target hash), they simply increment the block timestamp and start trying new nonces again
 	When a miner exhausts all possible nonces without finding a valid block, they increment the block timestamp.
 	This resets the nonce counter and changes the data slightly, including the updated timestamp.
