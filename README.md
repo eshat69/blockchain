@@ -359,5 +359,5 @@ Use Cases:
 •	Full Nodes: Ideal for users requiring full blockchain security and independence, such as miners, developers, and businesses handling large transaction volumes.
 •	Light Nodes: Suitable for everyday users and applications needing quick access to Ethereum's network without extensive resource requirements.
 •	Archive Nodes: Critical for developers building decentralized applications (dApps), conducting blockchain research, or requiring comprehensive historical data.
-Ethereum account is an entity with an ether (ETH) balance that can send or receive transection on Ethereum .
+Ethereum account is an entity with an ether (ETH) balance that can send or receive transactions on Ethereum.
 
