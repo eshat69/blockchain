@@ -333,7 +333,7 @@ o	Improves the security and reliability of transactions.
 3.	Compatibility and Future Upgrades:
 o	SegWit provides a foundation for implementing further scaling solutions and upgrades in blockchain networks.
 o	It supports the development of second-layer scaling solutions like the Lightning Network.
-Ethereum is an open source block chain based platform . Ethereum provide ether.
+Ethereum is an open source block chain based platform. Ethereum provides ether.
 Ethereum has 3 types of node  Full Node , Light Node , Archive Node 
 
 Types of Ethereum Nodes:
