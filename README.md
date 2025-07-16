@@ -19,7 +19,6 @@ City A:
 •	Decentralized Control: Blockchain offers a decentralized approach to storing and managing health records, reducing reliance on a single centralized database.
 •	Enhanced Security: Data stored on a blockchain is encrypted and distributed across a network of computers (nodes), reducing the risk of unauthorized access and enhancing data security.
 •	Patient Control: Blockchain can empower patients with greater control over their health data, allowing them to grant access to healthcare providers as needed while maintaining privacy.
-
 City B:
 •	Potential Blockchain Use: The specifics of blockchain implementation in City B are not provided, so its application could vary.
 •	Hypothetical Benefits: If City B adopts blockchain, it could potentially offer similar advantages as to City A, such as enhanced security, data transparency, and patient autonomy.
