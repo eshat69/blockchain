@@ -61,7 +61,6 @@ Benefits of immutability in blockchain:
 5.	Dispute Resolution: Immutable records in blockchain provide conclusive evidence in case of disputes. Parties can verify transactions independently, reducing the need for third-party intermediaries and legal proceedings.
 6.	Efficiency and Cost Savings: By ensuring data validity and reducing the need for manual verification, blockchain improves operational efficiency. This efficiency translates into cost savings by minimizing errors, enhancing trust, and streamlining processes.
 The Bitcoin blockchain's immutable ledger works:
-
 •	Transaction Records: Each Bitcoin transaction is recorded as a block in the blockchain.
 •	Block Formation: Transactions are grouped into blocks, and each block contains a hash code that links it to the previous block.
 •	Immutability: Once added, a block cannot be altered without changing all subsequent blocks, due to the cryptographic hash linking.
