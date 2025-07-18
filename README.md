@@ -105,7 +105,7 @@ Consensus protocol :
 A consensus protocol in blockchain ensures all network nodes agree on transactions and the blockchain state. It prevents fraud by verifying and adding new blocks, ensuring all nodes reach agreement on stored data.
 Proof of Work
 •	Validation is done by a network of miners
-•	Bitcoin paid as a reward and for transaction fees
+•	Bitcoin is paid as a reward and for transaction fees
 •	Competitive nature uses lots of energy and computational power
 Proof of Stake
 •	Validation is done by participants who offer ether as collateral
