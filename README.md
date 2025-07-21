@@ -189,7 +189,6 @@ A mining pool in cryptocurrency:
 3.	Shares Rewards: Distributes rewards proportionally based on contributed computational power.
 4.	Manages Operations: The pool operator handles the distribution of work and reward management.
 5.	Reduces Variability: Smoothers out income variability compared to solo mining.
-
 SHA256 produce , Total no of possible hashes = 16x16*****x16 = 16^64 = 〖10〗^77
 Total valid hashes = 〖10〗^77   Total no of nonce = 4x〖10〗^9
 There are not enough nonces to generate a valid hash. 
