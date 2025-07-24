@@ -353,7 +353,6 @@ Use Cases:
 •	Light Nodes: Suitable for everyday users and applications needing quick access to Ethereum's network without extensive resource requirements.
 •	Archive Nodes: Critical for developers building decentralized applications (dApps), conducting blockchain research, or requiring comprehensive historical data.
 Ethereum account is an entity with an ether (ETH) balance that can send or receive transactions on Ethereum.
-
  1. Externally Owned Account (EOA):
 •	Definition: An Externally Owned Account is a basic Ethereum account controlled by a private key and associated with an Ethereum address.
 •	Characteristics:
