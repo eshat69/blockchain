@@ -285,7 +285,7 @@ A transaction fee is based on several factors:
 •	Network Congestion: Higher congestion can lead to higher fees as users compete to have their transactions processed quickly.
 •	Transaction Size: Larger transactions (in terms of data size, not necessarily amount) may require higher fees to prioritize them in the queue.
 •	Desired Speed: Users can choose to pay higher fees for faster confirmation times.
-A cryptocurrency wallet is a digital tool that allows users to securely store, send, and receive cryptocurrencies . 
+A cryptocurrency wallet is a digital tool that allows users to store, send, and receive cryptocurrencies securely. 
 Key Aspects of Cryptocurrency Wallets:
 1.	Private Keys:
 o	A cryptocurrency wallet stores your private keys, which are crucial for authorizing transactions and accessing your funds. Private keys are generated securely and should be kept confidential.
